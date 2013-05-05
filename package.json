@@ -1,0 +1,16 @@
+{
+	"name": "Scrapy.js",
+	"version": "0.0.1",
+	"description": "JavaScript screen scraping tool. It uses XPath to scrape desired data.",
+	"keywords": "javascript, node.js, scraping, data, xpath",
+	"bugs": {
+		"url": "https://github.com/umrashrf/Scrapy.js/issues"
+	},
+	"author": {
+		"name": "Umair Ashraf",
+		"url": "http://umairashraf.me/"
+	},
+	"dependencies": {
+	},
+	"license": "BSD"
+}
