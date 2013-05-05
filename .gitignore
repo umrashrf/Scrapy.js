@@ -1,0 +1,9 @@
+# Git
+.*
+!/.gitignore
+
+# Mac OS X
+*.DS_Store
+
+# Project Specific
+*.sublime-*
